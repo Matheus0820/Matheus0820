@@ -4,7 +4,6 @@
 - 🔭 No momento estou trabalhando com front-end;
 - 🌱 Atualmente estou aprendendo Python e mais sobre Machine Learning;
 - 📫 Crontate-me pelo email: matheus.ramos.703@ufrn.edu.br
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Matheus0820">

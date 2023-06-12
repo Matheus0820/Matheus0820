@@ -2,7 +2,8 @@
 
 ### Olá Mundo! Eu sou o Matheus Ramos 👋
 
-
+- 📕 Estudante de TI(3/3) na EAJ - UFRN;
+- 💻 Desenvolvedor de Software e Web;
 - 🔭 No momento estou trabalhando com front-end;
 - 🌱 Atualmente estou aprendendo Python e mais sobre Machine Learning;
 - 📫 Crontate-me pelo email: matheus.ramos.703@ufrn.edu.br

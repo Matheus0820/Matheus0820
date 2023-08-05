@@ -21,6 +21,7 @@
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_java.svg">
    <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Matheus-Django" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_django.svg">
+    <img align="center" alt="Matheus-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Matheus-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_arduino.svg">
   <img align="right" alt="Matheus Ramos" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/98/a5/b8/98a5b8d4d1132ed130630b621d55512f.gif">
 </div>

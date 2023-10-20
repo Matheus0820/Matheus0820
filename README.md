@@ -1,7 +1,7 @@
-<center>
-<img height="300px" width="50%"  src="https://images-assets.nasa.gov/image/iss069e018147/iss069e018147~medium.jpg"/>
-</center>
-
+<div width="100%" style="text-align:center">
+<img  width="50%"  src="https://images-assets.nasa.gov/image/iss069e018147/iss069e018147~medium.jpg"/>
+</div>
+<!-- height="300px" -->
 ### Olá Mundo! Eu sou o Matheus Ramos 👋
 
 - 📕 Estudante de TI(3/3) na EAJ - UFRN;

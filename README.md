@@ -1,4 +1,6 @@
-<img height="300px" width="100%"  src="https://images-assets.nasa.gov/image/iss069e018147/iss069e018147~medium.jpg"/>
+<center>
+<img height="300px" width="50%"  src="https://images-assets.nasa.gov/image/iss069e018147/iss069e018147~medium.jpg"/>
+</center>
 
 ### Olá Mundo! Eu sou o Matheus Ramos 👋
 

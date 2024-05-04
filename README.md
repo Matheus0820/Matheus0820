@@ -4,10 +4,12 @@
 
 ### Olá Mundo! Eu sou o Matheus Ramos 👋
 
-- 📕 Estudante de TI(3/3) na EAJ - UFRN;
+- 👨‍💻 Cursando o curso de Bacharelado em Ciências e Tecnologia na ECT/UFRN;
+- 🎓 Formado em TI (Técnico em Informática) na EAJ - UFRN;
 - 💻 Desenvolvedor de Software e Web;
-- 🔭 No momento estou trabalhando com front-end;
+- 🔭 No momento estou trabalhando com desenvolvimento de site em Django;
 - 🌱 Atualmente estou aprendendo Python e mais sobre Machine Learning;
+- 🤖 Desenvolvendo Rover controlado via WEB SERVER - Robótica;
 - 📫 Crontate-me pelo email: matheus.ramos.703@ufrn.edu.br
 
 <div align="center">

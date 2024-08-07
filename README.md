@@ -7,10 +7,9 @@
 - 👨‍💻 Cursando o curso de Bacharelado em Ciências e Tecnologia na ECT/UFRN;
 - 🎓 Formado em TI (Técnico em Informática) na EAJ - UFRN;
 - 💻 Desenvolvedor de Software e Web;
-- 🔭 No momento estou trabalhando com desenvolvimento de site em Django;
-- 🌱 Atualmente estou aprendendo Python e mais sobre Machine Learning;
+- 🔭 Trabalhando com desenvolvimento Web em Django;
+- 🌱 Atualmente aprendendo Python e Machine Learning;
 - 🤖 Desenvolvendo Rover controlado via WEB SERVER - Robótica;
-- 📫 Crontate-me pelo email: matheus.ramos.703@ufrn.edu.br
 
 <div align="center">
   <a href="https://github.com/Matheus0820">
@@ -43,3 +42,7 @@
   <a href="www.linkedin.com/in/matheus-ramos-b40987226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
   </div>
+  
+  ---
+  
+  [![](https://visitcount.itsvg.in/api?id=Matheus0820&icon=8&color=1)](https://visitcount.itsvg.in)

@@ -15,8 +15,13 @@
 <div align="center">
   <a href="https://github.com/Matheus0820">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus0820&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&icon_color=0000FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0820&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0820&layout=compact&langs_count=7&theme=blue-green"/> <br>
+    
+  <br> ![](https://github-readme-streak-stats.herokuapp.com/?user=Matheus0820&theme=blue-green&hide_border=false)<br>
+    
+  ![](https://github-profile-trophy.vercel.app/?username=Matheus0820&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 </div>
+
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

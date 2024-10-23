@@ -8,8 +8,8 @@
 - 🎓 Formado em TI (Técnico em Informática) na EAJ - UFRN;
 - 💻 Desenvolvedor de Software e Web;
 - 🔭 Trabalhando com desenvolvimento Web em Django;
-- 🌱 Atualmente aprendendo Python e Machine Learning;
-- 🤖 Desenvolvendo Rover controlado via WEB SERVER - Robótica;
+- 🌱 Atualmente aprofundando meus conhecimento em Python e aprendendo sobre Machine Learning;
+- 🤖 Desenvolvendo Rover controlado via MQTT - Robótica;
 
 <div align="center">
   <a href="https://github.com/Matheus0820">

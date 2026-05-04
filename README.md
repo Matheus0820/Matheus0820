@@ -4,17 +4,16 @@
 
 ### Olá Mundo! Eu sou o Matheus Ramos 👋
 
-- 👨‍💻 Cursando o curso de Bacharelado em Ciências e Tecnologia na ECT/UFRN;
+- 👨‍💻 Cursando o curso de Bacharelado em Ciências e Tecnologia com ênfase em Tecnologia da Computação na ECT/UFRN;
 - 🎓 Formado em TI (Técnico em Informática) na EAJ - UFRN;
 - 💻 Desenvolvedor de Software e Web;
-- 🔭 Trabalhando com desenvolvimento Web em Django;
-- 🌱 Atualmente aprofundando meus conhecimento em Python e aprendendo sobre Machine Learning;
-- 🤖 Desenvolvendo Rover controlado via MQTT - Robótica;
+- 🔭 Trabalhando com desenvolvimento Web;
+- 🌱 Atualmente aprofundando meus conhecimento em Machine Learning;
 
 <div align="center">
   <a href="https://github.com/Matheus0820">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus0820&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&icon_color=0000FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0820&layout=compact&langs_count=7&theme=blue-green"/> <br>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus0820&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&icon_color=0000FF"/> -->
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus0820&layout=compact&langs_count=7&theme=blue-green"/> <br> -->
     
   <br> ![](https://github-readme-streak-stats.herokuapp.com/?user=Matheus0820&theme=blue-green&hide_border=false)<br>
     
